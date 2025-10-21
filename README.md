@@ -79,16 +79,18 @@ Point it at your GitHub repo or upload ZIP
 Hit “Deploy”
 🎉 Listen and flex
 
+--------------------------------------------------------------------------------------
 
---------🧠 FAQ--------
+🧠 FAQ
 
 Where are my stats saved?
 Browser localStorage—streaks, likes, playlists, achievements reload whenever you return.
 Can I add real cloud sync?
 Hell yeah—just hook the /utils/cloudSync.ts to Firebase/Supabase.
 How do I add new features?
-Add new components or ask Personal Bot for upgraded code.
+Add new components yourself or ask Personal Bot for upgraded code.
 
+--------------------------------------------------------------------------------------
 
 🤘 Credits
 
