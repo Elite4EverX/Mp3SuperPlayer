@@ -6,15 +6,25 @@ A web music player that’s got all the vibes: the slick Spotify polish, buttery
 🚀 Features
 
 🔥 Killer Spotify + Apple UI DNA
+
 🕹️ MP3 playback with playlists, shuffle, repeat, like
+
 🍕 Gamification: XP, levels, streaks, trophies, daily quests, stats
+
 🏆 Achievement gallery (with PNG trophies)
+
 🥇 Leaderboard: see your stats vs others
+
 🎨 Audio visualizer (animated)
+
 🛠️ Playlist builder and track liking
+
 🧠 Mini quiz game
+
 💾 In-browser save game/profile, fast load
+
 ☁️ Cloud sync stubs—just wire it to Firebase/Supabase to go global
+
 🔥 PNG buttons ripped off Apple/Spotify style
 
 
