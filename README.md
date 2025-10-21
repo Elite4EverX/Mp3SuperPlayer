@@ -76,6 +76,8 @@ git clone https://github.com/YourUser/Mp3SuperPlayer.git
 
 --------------------------------------------------------------------------------------
 
+<h2>Deployment</h2>
+
 🌍 Deploy to Vercel
 -------------------
 -One-click deploy:
