@@ -5,7 +5,7 @@ A web music player that’s got all the vibes: the slick Spotify polish, buttery
 
 🚀 Features
 --------------------------------------------------------------------------------------
--🔥 Killer Spotify + Apple UI DNA
+*🔥 Killer Spotify + Apple UI DNA
 
 -🕹️ MP3 playback with playlists, shuffle, repeat, like
 
