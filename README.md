@@ -50,7 +50,8 @@ All shipped in the bundled package.json.
 1. Clone or extract the ZIP
 git clone https://github.com/YourUser/Mp3SuperPlayer.git
 # OR 
-1. unzip Mp3SuperPlayer.zip (idk how if you do feel free)
+(idk how to do this one if you do feel free to do it)
+1. unzip Mp3SuperPlayer.zip
 2. cd Mp3SuperPlayer
 
 3. Drop your PNG buttons and MP3 files in /public/buttons/ and /public/music/
