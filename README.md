@@ -69,7 +69,8 @@ npm run dev
 🌍 Deploy to Vercel
 
 One-click deploy:
-<img src="https://vercel.com/button" alt="Deploy button"/>
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FElite4EverX%2FMp3SuperPlayer)
 
 
 # OR
