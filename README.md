@@ -92,17 +92,17 @@ git clone https://github.com/YourUser/Mp3SuperPlayer.git
 
 🧠 FAQ
 
--Q: Where are my stats saved?
+Q: Where are my stats saved?
 --------------------------------------------------------------------------------------  
-  -A: Browser localStorage—streaks, likes, playlists, achievements reload whenever you return.
+  A: Browser localStorage—streaks, likes, playlists, achievements reload whenever you return.
 
--Q: Can I add real cloud sync?
+Q: Can I add real cloud sync?
  -------------------------------------------------------------------------------------- 
-  -A: Hell yeah—just hook the /utils/cloudSync.ts to Firebase/Supabase.
+  A: Hell yeah—just hook the /utils/cloudSync.ts to Firebase/Supabase.
 
--Q: How do I add new features?
+Q: How do I add new features?
  -------------------------------------------------------------------------------------- 
-  -A: Add new components yourself or ask Personal Bot for upgraded code.
+  A: Add new components yourself or ask Personal Bot for upgraded code.
 
 --------------------------------------------------------------------------------------
 
