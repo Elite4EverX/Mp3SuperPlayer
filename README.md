@@ -53,24 +53,25 @@ git clone https://github.com/YourUser/Mp3SuperPlayer.git
 unzip Mp3SuperPlayer.zip
 cd Mp3SuperPlayer
 
-Copy
+
 Drop your PNG buttons and MP3 files in /public/buttons/ and /public/music/
 Install all dependencies
 npm install
 
-Copy
+
 Run it locally
 npm run dev
 # open http://localhost:3000
 
-Copy
+
 
 
 🌍 Deploy to Vercel
 
 One-click deploy:
-button.svg
-OR
+Vercel
+
+# OR
 
 Manual:
 Log into Vercel and hit “New Project”
@@ -79,7 +80,7 @@ Hit “Deploy”
 🎉 Listen and flex
 
 
-🧠 FAQ
+--------🧠 FAQ--------
 
 Where are my stats saved?
 Browser localStorage—streaks, likes, playlists, achievements reload whenever you return.
