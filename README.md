@@ -80,14 +80,13 @@ git clone https://github.com/YourUser/Mp3SuperPlayer.git
 
 🌍 Deploy to Vercel
 -------------------
--One-click deploy:
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FElite4EverX%2FMp3SuperPlayer)
-
 
 # OR
 
 -Manual:
+--------------------------------------------------------------------------------------
 
 1. Log into Vercel and hit “New Project”
 
@@ -95,7 +94,7 @@ git clone https://github.com/YourUser/Mp3SuperPlayer.git
 
 3. Hit “Deploy”
 
-4. 🎉 Listen and flex
+4. 🎉 Listen to your music
 
 --------------------------------------------------------------------------------------
 
