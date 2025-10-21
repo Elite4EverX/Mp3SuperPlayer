@@ -35,13 +35,19 @@ A web music player that’s got all the vibes: the slick Spotify polish, buttery
 
 Make sure you have these node modules installed (comes with npm install):
 
-next (React framework)
-react / react-dom (library base)
-typescript (typing)
-uuid (for IDs)
-idb (for IndexedDB if you wanna expand to real cloud saves)
-eslint + @types for lint/type safety
-All shipped in the bundled package.json.
+-next (React framework)
+
+-react / react-dom (library base)
+
+-typescript (typing)
+
+-uuid (for IDs)
+
+-idb (for IndexedDB if you wanna expand to real cloud saves)
+
+-eslint + @types for lint/type safety
+
+-All shipped in the bundled package.json.-
 
 --------------------------------------------------------------------------------------
 
