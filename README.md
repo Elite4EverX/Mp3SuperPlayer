@@ -4,28 +4,31 @@ A web music player that’s got all the vibes: the slick Spotify polish, buttery
 
 
 🚀 Features
+--------------------------------------------------------------------------------------
+-🔥 Killer Spotify + Apple UI DNA
 
-🔥 Killer Spotify + Apple UI DNA
+-🕹️ MP3 playback with playlists, shuffle, repeat, like
 
-🕹️ MP3 playback with playlists, shuffle, repeat, like
+-🍕 Gamification: XP, levels, streaks, trophies, daily quests, stats
 
-🍕 Gamification: XP, levels, streaks, trophies, daily quests, stats
+-🏆 Achievement gallery (with PNG trophies)
 
-🏆 Achievement gallery (with PNG trophies)
+-🥇 Leaderboard: see your stats vs others
 
-🥇 Leaderboard: see your stats vs others
+-🎨 Audio visualizer (animated)
 
-🎨 Audio visualizer (animated)
+-🛠️ Playlist builder and track liking
 
-🛠️ Playlist builder and track liking
+-🧠 Mini quiz game
 
-🧠 Mini quiz game
+-💾 In-browser save game/profile, fast load
 
-💾 In-browser save game/profile, fast load
+-☁️ Cloud sync stubs—just wire it to Firebase/Supabase to go global
 
-☁️ Cloud sync stubs—just wire it to Firebase/Supabase to go global
+-🔥 PNG buttons ripped off Apple/Spotify style
 
-🔥 PNG buttons ripped off Apple/Spotify style
+
+--------------------------------------------------------------------------------------
 
 
 📦 Dependencies
@@ -40,7 +43,7 @@ idb (for IndexedDB if you wanna expand to real cloud saves)
 eslint + @types for lint/type safety
 All shipped in the bundled package.json.
 
-
+--------------------------------------------------------------------------------------
 
 🛠️ Setup
 
@@ -88,4 +91,4 @@ Add new components or ask Personal Bot for upgraded code.
 
 🤘 Credits
 
-Student^2 and Personal Bot: Built by a dude  in school and bot with zero chill and infinite code hustle.
+Student^2 and Personal Bot: Built by a dude in school and a bot with zero chill and infinite code hustle.
