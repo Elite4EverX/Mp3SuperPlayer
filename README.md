@@ -1,3 +1,6 @@
+# I AM MAKING A NEW AND IMPROVED ONE
+So I made this because all the mp3 players on here suck pretty bad imo. And after a bit it broke and I dont feel like fixing it so I am starting from scratch and making a better mp3 player that will be alot more polished and have spotify and apple music connectability (might add more) as well as improving the xp and more!
+
 # Mp3SuperPlayer
 (This has broke)A web music player that’s got all the vibes: the slick Spotify polish, buttery Apple Music UX, stacked with gamification, achievements, playlists, streaks, mini-games, visualizer, and a sick leaderboard. Custom PNG button set for that real shiny look. Browser stats/profile saving—ready for Vercel deploy, runs everywhere.
 
