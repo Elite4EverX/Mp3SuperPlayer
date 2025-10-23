@@ -1,5 +1,5 @@
 # Mp3SuperPlayer
-A web music player that’s got all the vibes: the slick Spotify polish, buttery Apple Music UX, stacked with gamification, achievements, playlists, streaks, mini-games, visualizer, and a sick leaderboard. Custom PNG button set for that real shiny look. Browser stats/profile saving—ready for Vercel deploy, runs everywhere.
+(This has broke)A web music player that’s got all the vibes: the slick Spotify polish, buttery Apple Music UX, stacked with gamification, achievements, playlists, streaks, mini-games, visualizer, and a sick leaderboard. Custom PNG button set for that real shiny look. Browser stats/profile saving—ready for Vercel deploy, runs everywhere.
 
 
 
