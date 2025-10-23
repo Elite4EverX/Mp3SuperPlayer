@@ -1,4 +1,4 @@
-# I AM MAKING A NEW AND IMPROVED ONE
+# I AM MAKING A NEW AND IMPROVED MP3 PLAYER
 So I made this because all the mp3 players on here suck pretty bad imo. And after a bit it broke and I dont feel like fixing it so I am starting from scratch and making a better mp3 player that will be alot more polished and have spotify and apple music connectability (might add more) as well as improving the xp and more!
 
 # Mp3SuperPlayer
